@@ -12,7 +12,7 @@ Um plugin de correio com eles seus jogadores podem transferir itens com seguran�
 
 > Ao receber correspondência:
 
-![Upon receiving correspondence](https://image.prntscr.com/image/c8Bc_RMhTIOptnXydgbpNQ.png)
+![Upon receiving correspondence](https://image.prntscr.com/image/sH2ZnqinTUWVgZNWeb_lZw.png)
 
 > Menu de correspondência:
 
