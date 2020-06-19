@@ -1,0 +1,12 @@
+Mensagens:
+  sem_permissao: "&7(&6Correio&7) &eVocê não tem permisao para enviar correspondencias"
+  uso_incorreto: '&7(&6Correio&7) &eUtilize /enviar <jogador> para enviar uma correspondencia ao mesmo'
+  sem_item: "&7(&6Correio&7) &eVocê conter um item em sua mao para envia-lo"
+  sem_money: "&7(&6Correio&7) &eVocê precisa de @valor para enviar esse correspondencia"
+  lotada: "&7(&6Correio&7) &eO destinatario esta com sua caixa postal lotada."
+  ja_enviada: "&7(&6Correio&7) &eO destinatario ja esta com uma correspondencia sua aguarde o mesmo abri-la"
+  si_propio: "&7(&6Correio&7) &eVocê e nenviar uma correspondencia para si proprio"
+  enviada: "&7(&6Correio&7) &eSua correspondencia foi enviada com sucesso."
+  recebida: "&7(&6Correio&7) &eVocê recebeu com nova correspondencia para visualiza-la viste sua caixa postal."
+  comCd: "&7(&6Correio&7) &eVocê já enviou um item a alguns segundos atras por favor aguarde!"
+  retirada: "&7(&6Correio&7) &eVocê retirou a correspondencia com sucesso."

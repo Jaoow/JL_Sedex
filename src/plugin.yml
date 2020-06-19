@@ -1,0 +1,8 @@
+name: JL_Sedex
+version: 1.0
+author: J. Lucas
+main: com.joaolucas.sedex.Main
+commands:
+  enviar:
+    aliases: [send]
+  correio:
